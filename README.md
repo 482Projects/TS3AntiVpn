@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/69435778?s=200&v=4" href="https://482-projects.com" target="_blank" align="right" />
+<img src="https://i.imgur.com/gxxVSuB.png" href="https://482-projects.com" target="_blank" align="right" />
 
 # TS3AntiVpn
 You can use the bot to check a client IP if it is a VPN it will be banned/kicked config dependent
