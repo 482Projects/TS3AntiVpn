@@ -8,7 +8,7 @@ You can use the bot to check a client IP if it is a VPN it will be banned/kicked
 ## Install
 
 ### Download
-- [![Download](https://img.shields.io/badge/Download-latest-orange.svg)](https://ts-ranksystem.com/#download)
+- [![Download](https://img.shields.io/badge/Download-latest-orange.svg)](#)
 - [![Download](https://img.shields.io/badge/Download-beta-orange.svg)](#)
 
 #### Linux
