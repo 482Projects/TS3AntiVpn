@@ -3,7 +3,12 @@
 # TS3AntiVpn
 You can use the bot to check a client IP if it is a VPN it will be banned/kicked config dependent
 
+# The Story
+Since many hosting providers rent this service for users, we thought that since many users have Teamspeak running on their own root server anyway, we offer it open source, you do not need any programming skills because you just have to adjust the settings in the config. 
 
+# Infos 
+
+We kindly ask you not to use our projects for commercial purposes.
 
 ## Install
 
