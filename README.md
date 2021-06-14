@@ -23,4 +23,4 @@ Run `.`
 ---
 Visit [[482Projects]](https://482-projects.com)
 ---
-[![forthebadge](http://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](http://forthebadge.com) [![forthebadge](http://forthebadge.com/images/badges/built-by-developers.svg)](http://forthebadge.com) [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com) [![forthebadge](http://forthebadge.com/images/badges/contains-cat-gifs.svg)](http://forthebadge.com) [![forthebadge](http://forthebadge.com/images/badges/made-with-java.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://482-projects.com) [![forthebadge](http://forthebadge.com/images/badges/built-by-developers.svg)](https://482-projects.com) [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](https://482-projects.com) [![forthebadge](http://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://482-projects.com) [![forthebadge](http://forthebadge.com/images/badges/made-with-java.svg)](https://482-projects.com)
