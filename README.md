@@ -14,18 +14,43 @@ We kindly ask you not to use our projects for commercial purposes.
 - [![Download](https://img.shields.io/badge/Download-latest-orange.svg)](#)
 - [![Download](https://img.shields.io/badge/Download-beta-orange.svg)](#)
 
-#### Linux **Ubuntu**:  
-Run `.`
-Run `.`
-Run `.`
-#### Linux **Debian**:
-Run `.`
-Run `.`
-Run `.`
-#### Windows:
-Run `.`
-Run `.`
-Run `.`
+#### Linux **Ubuntu & Debian**:  
+Install Java
+
+```sh
+$ sudo apt update
+$ sudo apt upgrade
+$ sudo apt install default-jre
+$ java -version
+```
+Download the Emulator
+```sh
+$ wget .
+$ wget .
+```
+Check The Config.json
+```json
+{
+"host": "yourteamspeakaddress.de", The Teamspeak Host Address
+"port": "9987", The Teamspeak Port
+"queryusername": "serveradmin", The Teamspeak Query Username
+"querypassword": "querypassword", The Teamspeak Query Password
+"querynickname": "AntiVpn", The Nickname of the Bot
+"banorkick": "kick", Please specify if the client should be kicked or banned "kick" or "ban"
+"reason": "VPN Blocker", The Reason when the client get kicked or banned
+"randomchars": "abcxyz", Its for the Name: AntiVpn [a,b,c,x,y,z]
+
+"service": "GetIpIntel", The service GetIpIntel can be used without registration you only have to provide an email for the service GetIpHub you have to create an account on https://iphub.info/register and generate the API free API Token more services will follow in the next version
+"email": "yourmail@example.com", The e-mail for the GetIpIntel service must be filled in if you want to use the service.
+"apikey": "youapikey" The API Key for the GetIpHub Service 
+}
+
+```
+Run the Bot
+```sh
+$ java -jar Bot.jar
+```
+
 
 ---
 Visit [[482Projects]](https://482-projects.com)
