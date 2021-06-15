@@ -27,12 +27,11 @@ sudo apt upgrade
 sudo apt install default-jre
 ```
 ```sh
-$ java -version
+java -version
 ```
 Download the Emulator
 ```sh
-$ wget .
-$ wget .
+wget .
 ```
 Check The Config.json
 ```json
