@@ -14,11 +14,15 @@ We kindly ask you not to use our projects for commercial purposes.
 - [![Download](https://img.shields.io/badge/Download-latest-orange.svg)](#)
 - [![Download](https://img.shields.io/badge/Download-beta-orange.svg)](#)
 
-#### Linux
-* on **Ubuntu**/**Debian**:  
+#### Linux **Ubuntu**:  
 Run `.`
 Run `.`
 Run `.`
+#### Linux **Debian**:
+Run `.`
+Run `.`
+Run `.`
+#### Windows:
 Run `.`
 Run `.`
 Run `.`
