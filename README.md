@@ -18,9 +18,15 @@ We kindly ask you not to use our projects for commercial purposes.
 Install Java
 
 ```sh
-$ sudo apt update
-$ sudo apt upgrade
-$ sudo apt install default-jre
+sudo apt update
+```
+```sh
+sudo apt upgrade
+```
+```sh
+sudo apt install default-jre
+```
+```sh
 $ java -version
 ```
 Download the Emulator
@@ -36,9 +42,9 @@ Check The Config.json
 "queryusername": "serveradmin", The Teamspeak Query Username
 "querypassword": "querypassword", The Teamspeak Query Password
 "querynickname": "AntiVpn", The Nickname of the Bot
-"banorkick": "kick", Please specify if the client should be kicked or banned "kick" or "ban"
+"banorkick": "kick", Please specify if the client should be kicked or banned kick or ban
 "reason": "VPN Blocker", The Reason when the client get kicked or banned
-"randomchars": "abcxyz", Its for the Name: AntiVpn [a,b,c,x,y,z]
+"randomchars": "abcxyz", Its for the Name: AntiVpn [a or b or c or x or y orz]
 
 "service": "GetIpIntel", The service GetIpIntel can be used without registration you only have to provide an email for the service GetIpHub you have to create an account on https://iphub.info/register and generate the API free API Token more services will follow in the next version
 "email": "yourmail@example.com", The e-mail for the GetIpIntel service must be filled in if you want to use the service.
@@ -48,7 +54,7 @@ Check The Config.json
 ```
 Run the Bot
 ```sh
-$ java -jar Bot.jar
+java -jar Bot.jar
 ```
 
 
