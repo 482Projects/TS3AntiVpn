@@ -36,7 +36,7 @@ wget .
 Check The Config.json
 ```json
 {
-"host": "yourteamspeakaddress.de", The Teamspeak Host Address
+"host": "yourteamspeakaddress.de", ```The Teamspeak Host Address```
 "port": "9987", The Teamspeak Port
 "queryusername": "serveradmin", The Teamspeak Query Username
 "querypassword": "querypassword", The Teamspeak Query Password
