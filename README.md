@@ -2,10 +2,10 @@
 You can use the bot to check a client IP if it is a VPN it will be banned/kicked config dependent
 
 # Features
-Own Nickname
-Own Reason for disconnect
-You can switch between two providers at this time and more will be added in the future
-You can set whether the user will be banned or kicked
+- Own Nickname
+- Own Reason for disconnect
+- You can switch between two providers at this time and more will be added in the future
+- You can set whether the user will be banned or kicked
 
 # The Story
 Since many hosting providers offer this tool for sale, we thought that since many users have Teamspeak running on their own root server anyway, we offer it open source, you do not need any programming skills because you just have to adjust the settings in the config. 
