@@ -1,0 +1,15 @@
+{
+"host": "yourteamspeakaddress.de",
+"port": "9987",
+"queryusername": "serveradmin",
+"querypassword": "querypassword",
+"querynickname": "AntiVpn",
+"banorkick": "kick",
+"reason": "VPN Blocker",
+"randomchars": "abcxyz",
+
+"service": "GetIpIntel",
+"email": "yourmail@example.com",
+"apikey": "youapikey"
+}
+
