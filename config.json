@@ -6,7 +6,6 @@
 "querynickname": "AntiVpn",
 "banorkick": "kick",
 "reason": "VPN Blocker",
-"randomchars": "abcxyz",
 
 "service": "GetIpIntel",
 "email": "yourmail@example.com",
