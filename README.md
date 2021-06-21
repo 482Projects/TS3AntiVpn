@@ -48,7 +48,6 @@ About The Config.json
 "querynickname": The Nickname of the Bot
 "banorkick": Please specify if the client should be kicked or banned kick or ban
 "reason": The Reason when the client get kicked or banned
-"randomchars": Its for the Name: AntiVpn [a,b,c,x,y,z]
 
 "service": The service GetIpIntel can be used without registration you only have to provide an email for the service GetIpHub you have to create an account on https://iphub.info/register and generate the API free API Token more services will follow in the next version
 "email": The e-mail for the GetIpIntel service must be filled in if you want to use the service.
@@ -65,7 +64,6 @@ Check The Config.json
 "querynickname": "AntiVpn",
 "banorkick": "kick",
 "reason": "VPN Blocker",
-"randomchars": "abcxyz",
 
 "service": "GetIpIntel",
 "email": "yourmail@example.com",
