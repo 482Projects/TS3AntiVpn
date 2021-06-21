@@ -33,22 +33,36 @@ Download the Emulator
 ```sh
 wget .
 ```
+About The Config.json
+```
+"host": The Teamspeak Host Address
+"port": The Teamspeak Port
+"queryusername": The Teamspeak Query Username
+"querypassword": The Teamspeak Query Password
+"querynickname": The Nickname of the Bot
+"banorkick": Please specify if the client should be kicked or banned kick or ban
+"reason": The Reason when the client get kicked or banned
+"randomchars": Its for the Name: AntiVpn [a,b,c,x,y,z]
+
+"service": The service GetIpIntel can be used without registration you only have to provide an email for the service GetIpHub you have to create an account on https://iphub.info/register and generate the API free API Token more services will follow in the next version
+"email": The e-mail for the GetIpIntel service must be filled in if you want to use the service.
+"apikey": The API Key for the GetIpHub Service 
+````
 Check The Config.json
 ```json
 {
-"host": "yourteamspeakaddress.de", ``` ```sh The Teamspeak Host Address```
-```json
-"port": "9987", The Teamspeak Port
-"queryusername": "serveradmin", The Teamspeak Query Username
-"querypassword": "querypassword", The Teamspeak Query Password
-"querynickname": "AntiVpn", The Nickname of the Bot
-"banorkick": "kick", Please specify if the client should be kicked or banned kick or ban
-"reason": "VPN Blocker", The Reason when the client get kicked or banned
-"randomchars": "abcxyz", Its for the Name: AntiVpn [a or b or c or x or y orz]
+"host": "yourteamspeakaddress.de",
+"port": "9987",
+"queryusername": "serveradmin",
+"querypassword": "querypassword",
+"querynickname": "AntiVpn",
+"banorkick": "kick",
+"reason": "VPN Blocker",
+"randomchars": "abcxyz",
 
-"service": "GetIpIntel", The service GetIpIntel can be used without registration you only have to provide an email for the service GetIpHub you have to create an account on https://iphub.info/register and generate the API free API Token more services will follow in the next version
-"email": "yourmail@example.com", The e-mail for the GetIpIntel service must be filled in if you want to use the service.
-"apikey": "youapikey" The API Key for the GetIpHub Service 
+"service": "GetIpIntel",
+"email": "yourmail@example.com",
+"apikey": "youapikey"
 }
 
 ```
