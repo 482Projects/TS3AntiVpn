@@ -45,10 +45,6 @@ Install the Emulator
 ```sh
 unzip TS3AntiVPN-linux.zip
 ```
- Start the Emulator
-```sh bash start.sh ``` 
- For Screen:
-```sh bash start-screen.sh ```
 
 About The Config.json
 ```
@@ -84,12 +80,13 @@ Check The Config.json
 
 ```
 Run the Bot
-```sh
-java -jar Bot.jar
-```
+- ```sh bash start.sh ``` 
+ 
+For Screen:
+- ```sh bash start-screen.sh ```
 
 
 ---
-Visit [[482Projects]](https://482-projects.com)
+Visit [482Projects](https://482-projects.com)
 ---
 [![forthebadge](http://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://482-projects.com) [![forthebadge](http://forthebadge.com/images/badges/built-by-developers.svg)](https://482-projects.com) [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](https://482-projects.com) [![forthebadge](http://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://482-projects.com) [![forthebadge](http://forthebadge.com/images/badges/made-with-java.svg)](https://482-projects.com)
