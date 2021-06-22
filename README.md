@@ -47,7 +47,7 @@ unzip TS3AntiVPN-linux.zip
 ```
  Start the Emulator
 ```sh bash start.sh ``` 
- For Screen(apt install screen)
+ For Screen:
 ```sh bash start-screen.sh ```
 
 About The Config.json
