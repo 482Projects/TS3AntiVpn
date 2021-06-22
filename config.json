@@ -9,6 +9,6 @@
 
 "service": "GetIpIntel",
 "email": "yourmail@example.com",
-"apikey": "youapikey"
-}
-
+"apikey": "youapikey",
+"debug": "true"
+}   
