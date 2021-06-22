@@ -17,9 +17,7 @@ We kindly ask you not to use our projects for commercial purposes.
 ## Install
 
 ### Download
-- [![Download](https://img.shields.io/badge/Download-latest-orange.svg)](#)
-- [![Download](https://img.shields.io/badge/Download-beta-orange.svg)](#)
-
+- [![Download](https://img.shields.io/badge/Download-latest-orange.svg)](https://github.com/482Projects/TS3AntiVpn/archive/refs/tags/1.0.zip)
 #### Linux **Ubuntu & Debian**:  
 Install Java
 
