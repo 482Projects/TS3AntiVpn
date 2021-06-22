@@ -45,8 +45,8 @@ Install the Emulator
 ```sh
 unzip TS3AntiVPN-linux.zip
 ```
-Start the Emulator
-```sh bash start.sh ```
+ Start the Emulator
+```sh bash start.sh ``` 
  For Screen(apt install screen)
 ```sh bash start-screen.sh ```
 
