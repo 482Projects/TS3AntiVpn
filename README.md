@@ -68,7 +68,7 @@ Check The Config.json
 "service": "GetIpIntel",
 "email": "yourmail@example.com",
 "apikey": "youapikey",
-"debug": false
+"debug": "false"
 }
 
 ```
