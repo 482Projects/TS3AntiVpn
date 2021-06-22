@@ -37,8 +37,19 @@ java -version
 ```
 Download the Emulator
 ```sh
-wget .
+mkdir /home/TS3AntiVPN
+cd /home/TS3AntiVPN
+wget https://github.com/482Projects/TS3AntiVpn/releases/download/1.0/TS3AntiVPN-linux.zip
 ```
+Install the Emulator
+```sh
+unzip TS3AntiVPN-linux.zip
+```
+Start the Emulator
+```sh bash start.sh ```
+For Screen(apt install screen)
+```sh bash start-screen.sh ```
+
 About The Config.json
 ```
 "host": The Teamspeak Host Address
